@@ -1,0 +1,1 @@
+In Avalonia, the DataGridView itself does not support single or multiple selection of cells. Therefore, I have simplifiedly encapsulated the DataGridView to enable it to perform cell selection and retrieve cell contents.
